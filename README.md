@@ -66,8 +66,8 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
+![EX2_train](https://github.com/Thirunavukkarasu05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119291645/345f3f5d-b024-4729-a5d5-3e54d4437b78)
 
-![EX2_train](https://github.com/Thirunavukkarasu05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119291645/1c4c629e-5895-4adc-b7db-d379aed4257b)
 
 ![EX2_test](https://github.com/Thirunavukkarasu05/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/119291645/f55deb70-4d4a-42e8-8a8f-4f49704dec41)
 
